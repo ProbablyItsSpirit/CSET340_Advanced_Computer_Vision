@@ -10,3 +10,5 @@ Lab 3 → Illumination correction & denoising techniques
 Lab 4 → Morphology + Deskewing
 
 Lab 5 → Edge detection, corner detection, and shape detection
+
+Lab 6 → Color space conversions, pseudo-color coding, intensity-to-color transforms, color image enhancements
