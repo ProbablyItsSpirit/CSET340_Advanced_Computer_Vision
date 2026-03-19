@@ -14,3 +14,5 @@ Lab 5 → Edge detection, corner detection, and shape detection
 Lab 6 → Color space conversions, pseudo-color coding, intensity-to-color transforms, color image enhancements
 
 Lab 7 → FFT/IFFT analysis, frequency-domain LPF & HPF designs, Gaussian smoothing, homomorphic filtering
+
+Lab 8 → Lossless/lossy compression (RLE, Huffman, block DCT), comparative JPEG/PNG sizing, watermark embedding/extraction
